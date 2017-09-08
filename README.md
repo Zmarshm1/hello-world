@@ -1,5 +1,4 @@
 # hello-world
 
-Zach, gamer, coder, computer science graduate looking to learn more.
+Zach Marshman, computer science student at Binghamton University looking to learn more.
 
-I drive pizzas, and co-host a laser tag system me and two friends created. :D
